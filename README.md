@@ -32,6 +32,24 @@ How to effectively visualize the vertical context of Geographic locations?
 - The app should be available over a website (Non-Functional)
 - The app should be user-friendly and have a fast loading time. Usage of Single Page Application (SPA) Front-end framework-Vue.js (Non-Functional)
 
+**Proposed Methodology :**
+1. Data Acquiring
+2. Vertical attribute selection
+3. Data Cleaning
+   -  UmweltBundesamt
+  -   DBpedia
+4. Develop three visualization approaches
+5. Data injection
+6. Web Application​
+7. Validation
+8. Final Web Application (SPA)​
+9. Task generation for evaluation
+10. Evaluation & Comparison of Visualization Approaches​
+11. Evaluation Results
+12. Selection of the best visualzation approach 
+   - DBpedia
+   - 
+
 
 
 
