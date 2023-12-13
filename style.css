@@ -1,0 +1,41 @@
+.full-screen {
+  height: 100vh; /* 100% of the viewport height */
+  padding-top: 1vh; /* Optional: Center content vertically */
+  padding-left: 5vh;
+}
+
+.top-part {
+  height: 20vh; /* 20% of the viewport height */
+}
+
+#map{
+  height: 78vh; /* 78% of the viewport height */
+}
+
+#map1{
+  height: 50vh; /* 50% of the viewport height */
+}
+
+h2{
+  padding-bottom: 10px;
+}
+
+.nav-pills{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.modal1{
+  display: none;
+  height: 70vh;
+}
+
+.modal2{
+  display: none;
+  height: 70vh;
+}
+
+.modal3{
+  display: none;
+  height: 70vh;
+}
