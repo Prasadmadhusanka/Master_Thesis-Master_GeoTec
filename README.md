@@ -48,7 +48,8 @@ How to effectively visualize the vertical context of Geographic locations?
 11. Evaluation Results --> Not completed
 12. Selection of the best visualzation approach  --> Not completed
 
-[Video Demo](https://www.youtube.com/watch?v=pjFWVJ0yK7k)
+**Short video:**
+[Link for short video](https://www.youtube.com/watch?v=pjFWVJ0yK7k)
    
 
 
